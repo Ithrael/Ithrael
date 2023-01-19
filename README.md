@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning k8s
+- 🌱 I’m currently learning k8s & istio
 
 ![](https://github-readme-stats.vercel.app/api?username=ithrael)
 
