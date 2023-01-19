@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning k8s
 
-![](https://github-readme-stats.vercel.app/api?username=Ithrael)
+![](https://github-readme-stats.vercel.app/api?username=ithrael)
 
 #### Languages
 [![](https://img.shields.io/badge/-go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
