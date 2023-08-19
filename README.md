@@ -33,9 +33,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/docker.svg" alt="docker" style="max-width:100%;">
 </p>
 
-<a href="https://github.com/Ithrael">
+<!-- <a href="https://github.com/Ithrael">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=Ithrael&show_icons=true&theme=buefy" />
 </a>
-<!-- <a href="https://github.com/Ithrael">
+<a href="https://github.com/Ithrael">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ithrael&layout=compact&show_icons=true&theme=buefy" />
 </a> -->
