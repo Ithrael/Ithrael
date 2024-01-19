@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+kubernetes member/helm contributor
 
 💬 Ask me about I will answer! 
 
